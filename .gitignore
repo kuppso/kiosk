@@ -1,0 +1,7 @@
+firmware
+*.go
+.env
+go.mod
+go.sum
+makeit
+pwd.md
