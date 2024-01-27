@@ -6,3 +6,5 @@ go.sum
 makeit
 pwd.md
 *.zip
+setup.sh
+.DS_Store
